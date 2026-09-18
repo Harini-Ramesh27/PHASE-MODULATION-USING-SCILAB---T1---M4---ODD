@@ -1,4 +1,4 @@
-# PHASE-MODULATION-USING-SCILAB---T1---M4---ODD
+# PHASE-MODULATION-USING-SCILAB
 
 
 ## Aim
@@ -42,4 +42,13 @@ Where:
 
 ---
 
-## MODEL GRAPH
+## Tabulation
+<img width="1280" height="661" alt="image" src="https://github.com/user-attachments/assets/447d7e39-e4fa-4b53-9aa9-af4fbd2ef74a" />
+
+## Output
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/c8ae36dd-e616-4d24-8dd6-334f1092e0dd" />
+
+## Result
+Thus, the phase modulator (PM) signal was successfully generated with SCILAB.
+
+
